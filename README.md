@@ -62,10 +62,10 @@ python manage.py runserver
 ```
 ##  API Endpoints
 
-/api/users/: User management
-/api/contacts/: Contact management
-/api/spam-reports/: Spam reporting
-/api/search/: Search functionality
+/api/users/-->User management
+/api/contacts/--> Contact management
+/api/spam-reports/-->Spam reporting
+/api/search/-->Search functionality
 
 ##  Authentication
 
